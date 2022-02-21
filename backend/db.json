@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Rodrigo Valença",
+      "email": "rodrigo.rvcf@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Bruno Monteiro",
+      "email": "bruno@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Mônica Araújo",
+      "email": "monica@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Paola Ryane",
+      "email": "paola.ryane@gmail.com",
+      "id": 5
+    }
+  ]
+}
